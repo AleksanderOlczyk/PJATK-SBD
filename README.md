@@ -1,6 +1,6 @@
-# 🗂️ System Zarządzania Projektami Informatycznymi
+# System Zarządzania Projektami Informatycznymi
 
-## 📌 Opis
+## Opis
 
 Projekt końcowy z przedmiotu **Systemy Baz Danych (SBD)**. Celem było zaprojektowanie i implementacja relacyjnej bazy danych.
 
